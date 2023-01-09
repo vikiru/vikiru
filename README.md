@@ -13,16 +13,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 December 2022 - To: 07 January 2023
+From: 01 January 2023 - To: 08 January 2023
 
-Total Time: 18 hrs 39 mins
+Total Time: 29 hrs 47 mins
 
-Java               15 hrs 37 mins  >>>>>>>>>>>>>>>>>>>>>----   83.71 %
-Python             1 hr 44 mins    >>-----------------------   09.36 %
-JSON               49 mins         >------------------------   04.45 %
-Markdown           20 mins         -------------------------   01.87 %
-requirements.txt   6 mins          -------------------------   00.59 %
-HTML               0 secs          -------------------------   00.01 %
+Java               25 hrs 37 mins  >>>>>>>>>>>>>>>>>>>>>>---   86.03 %
+Python             2 hrs 7 mins    >>-----------------------   07.14 %
+JSON               1 hr 9 mins     >------------------------   03.88 %
+Markdown           20 mins         -------------------------   01.17 %
+GitIgnore file     16 mins         -------------------------   00.93 %
+XML                6 mins          -------------------------   00.38 %
 ```
 
 <!--END_SECTION:waka-->
