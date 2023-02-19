@@ -13,16 +13,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 February 2023 - To: 17 February 2023
+From: 11 February 2023 - To: 18 February 2023
 
-Total Time: 18 hrs 39 mins
+Total Time: 19 hrs 7 mins
 
-Java               17 hrs 35 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   94.32 %
-JavaScript         25 mins         >------------------------   02.29 %
-Python             25 mins         >------------------------   02.26 %
-JSON               9 mins          -------------------------   00.86 %
+Java               18 hrs 18 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   95.68 %
+Python             46 mins         >------------------------   04.08 %
 requirements.txt   1 min           -------------------------   00.16 %
-Log                0 secs          -------------------------   00.07 %
+Log                0 secs          -------------------------   00.06 %
+Text               0 secs          -------------------------   00.02 %
+Markdown           0 secs          -------------------------   00.00 %
 ```
 
 <!--END_SECTION:waka-->
