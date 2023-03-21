@@ -13,14 +13,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 March 2023 - To: 19 March 2023
+From: 13 March 2023 - To: 20 March 2023
 
-Total Time: 6 hrs 15 mins
+Total Time: 2 hrs 33 mins
 
-Java     5 hrs 9 mins    >>>>>>>>>>>>>>>>>>>>>----   82.61 %
-Log      37 mins         >>>----------------------   10.02 %
-Python   27 mins         >>-----------------------   07.34 %
-Other    0 secs          -------------------------   00.03 %
+Java     1 hr 45 mins    >>>>>>>>>>>>>>>>>--------   69.15 %
+Log      36 mins         >>>>>>-------------------   23.78 %
+Python   10 mins         >>-----------------------   07.08 %
 ```
 
 <!--END_SECTION:waka-->
