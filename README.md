@@ -1,14 +1,23 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=80&lines=Hello 👋, my name is Visakan+Kirubakaran" alt="Visakan Kirubakaran" />
+</p>
 
-### GitHub Stats
+  <details open>
+    <summary><h2> 📈 GitHub Stats </h2></summary>
+    <p>
+      <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <img src="https://streak-stats.demolab.com?user=vikiru&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500"/>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=vikiru&theme=transparent&include_all_commits=true&count_private=true&hide=stars,contribs&show_icons=true&hide_border=true" height="180"/>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikiru&langs_count=10&layout=compact&theme=transparent&card_width=500&hide_border=true" height="180"/>
+    </p>
+  </details>
 
-[![Vikiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikiru&theme=nightowl&include_all_commits=true&count_private=true&hide=stars,contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Vikiru's GitHub Streak](https://streak-stats.demolab.com/?user=vikiru&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
----
-
-### Weekly developmental breakdown
+<details open>
+  <summary><h2> 💻 Weekly Developmental Breakdown </h2></summary>
 
 <!--START_SECTION:waka-->
 
@@ -25,3 +34,4 @@ Text         0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 
 <!--END_SECTION:waka-->
+</details>
