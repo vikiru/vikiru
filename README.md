@@ -5,16 +5,13 @@
 
   <details open>
     <summary><h2> 📈 GitHub Stats </h2></summary>
-    <p>
-      <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img src="https://streak-stats.demolab.com?user=vikiru&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500"/>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=vikiru&theme=transparent&include_all_commits=true&count_private=true&hide=stars,contribs&show_icons=true&hide_border=true" height="180"/>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikiru&langs_count=10&layout=compact&theme=transparent&card_width=500&hide_border=true" height="180"/>
+    <p align="center">
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://streak-stats.demolab.com?user=vikiru&theme=monokai-metallian&hide_border=true&card_width=500&dates=61DBFA&currStreakNum=61DBFA&ring=61DBFA&currStreakLabel=61DBFA&sideNums=61DBFA&sideLabels=61DBFA&fire=61DBFA" alt="Visakan Kirubakaran's Programming Streak"/></a>
     </p>
+    
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/?username=vikiru&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&hide=stars,contribs&card_width=400" height="192px" alt="Visakan Kirubakaran's Github Stats" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikiru&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=1F222E" height="192px" alt="Visakan Kirubakaran's Most Used Languages"/></a>
   </details>
-
 
 <details open>
   <summary><h2> 💻 Weekly Developmental Breakdown </h2></summary>
