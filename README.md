@@ -15,7 +15,7 @@
 </details>
 
 <details>
-  <summary><h2>💻 Weekly Developmental Breakdown </h2></summary>
+  <summary><h2>💻 Developmental Breakdown </h2></summary>
 <!--START_SECTION:waka-->
 
 ```text
