@@ -3,6 +3,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=80&lines=Hello 👋, my name is Visakan+Kirubakaran" alt="Visakan Kirubakaran" />
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/viskirubakaran/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://wakatime.com/@vikiru">
+    <img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white">
+  </a>
+</p>
+
   <details open>
     <summary><h2>📈 GitHub Stats </h2></summary>
     <p align="center">
