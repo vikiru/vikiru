@@ -28,12 +28,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 August 2023 - To: 13 August 2023
+From: 07 August 2023 - To: 14 August 2023
 
-Total Time: 8 hrs 57 mins
+Total Time: 7 hrs 4 mins
 
-JavaScript   8 hrs 34 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀   95.73 %
-HTML         22 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.27 %
+JavaScript   6 hrs 42 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀   94.78 %
+HTML         22 mins         ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.22 %
 ```
 
 <!--END_SECTION:waka-->
