@@ -64,15 +64,15 @@
 ![CircleCI](https://img.shields.io/badge/CIRCLECI-02303A.svg?style=for-the-badge&logo=CIRCLECI&logoColor=white&color=%23343434)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-<details>
-  <summary><h2>🚀 GitHub Projects </h2></summary>
-  <ul>
-    <li><a href="https://github.com/vikiru/Urvo">Urvo | Discord Bot</a></li>
-    <li><a href="https://github.com/vikiru/CodeSmell">CodeSmell | Static Analysis Tool</a></li>
-    <li><a href="https://github.com/vikiru/discrete-sim">Discrete-Sim | Manufacturing Facility Simulation</a></li>
-    <li><a href="https://github.com/vikiru/Mini-SurveyMonkey">Mini-SurveyMonkey | Spring Boot CRUD Web App</a></li>
-  </ul>
-</details>
+## 🚀 GitHub Projects 
+|                    Project Name                   	|                   Technologies Used                   	|                            Link                            	|
+|:-------------------------------------------------:	|:-----------------------------------------------------:	|:----------------------------------------------------------:	|
+|         Urvo \| Multi-purpose Discord Bot         	|       `Node.js, SQLite, Sequelize, Mocha, Chai`       	|        [GitHub Repo](https://github.com/vikiru/Urvo)       	|
+|         CodeSmell \| Static Analysis Tool         	| `Java, Python, JavaFX WebView, HTML, CSS, JavaScript` 	|     [GitHub Repo](https://github.com/vikiru/CodeSmell)     	|
+| discrete-sim \| Manufacturing Facility Simulation 	|             `Python, NumPy, SciPy, SimPy`             	|    [GitHub Repo](https://github.com/vikiru/discrete-sim)   	|
+|   Mini-SurveyMonkey \| Spring Boot CRUD Web App   	|    `Java, Spring Boot, Thymeleaf, JUnit, HTML, CSS`   	| [GitHub Repo](https://github.com/vikiru/Mini-SurveyMonkey) 	|
+|       Elevator Simulator \| Threads and UDP       	|                     `Java, JUnit`                     	|                          `private`                         	|
+|           digitalRisk \| MVC Swing Game           	|                  `Java, JUnit, Swing`                 	|    [GitHub Repo](https://github.com/flavji/digitalRisk)    	|
 
 <details>
   <summary><h2>📈 GitHub Stats </h2></summary>
