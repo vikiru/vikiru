@@ -13,8 +13,6 @@
   <a href="https://linktr.ee/vikiru">
     <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white">
   </a>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=vikiru">
 </p>
 
 # 💻 Tech Stack
@@ -76,13 +74,25 @@
 ![CIRCLECI](https://img.shields.io/badge/CIRCLECI-02303A.svg?style=for-the-badge&logo=CIRCLECI&logoColor=white&color=%23343434)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-  <details>
-    <summary><h2>📈 GitHub Stats </h2></summary>
-    <p align="center">
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://streak-stats.demolab.com?user=vikiru&theme=monokai-metallian&hide_border=true&card_width=500&dates=61DBFA&currStreakNum=61DBFA&ring=61DBFA&currStreakLabel=61DBFA&sideNums=61DBFA&sideLabels=61DBFA&fire=61DBFA" alt="Visakan Kirubakaran's Programming Streak"/></a>
-    </p>
-    <p align="center">
- <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/?username=vikiru&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E" height="192px" width="400px" alt="Visakan Kirubakaran's Github Stats" /></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikiru&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E" height="192px" width="360px" alt="Visakan Kirubakaran's Most Used Languages"/></a>
-    </p>
+<details>
+  <summary><h2>🚀 GitHub Projects </h2></summary>
+  <ul>
+    <li><a href="https://github.com/vikiru/Urvo">Urvo | Discord Bot</a></li>
+    <li><a href="https://github.com/vikiru/CodeSmell">CodeSmell | Static Analysis Tool</a></li>
+    <li><a href="https://github.com/vikiru/discrete-sim">Discrete-Sim | Manufacturing Facility Simulation</a></li>
+    <li><a href="https://github.com/vikiru/Mini-SurveyMonkey">Mini-SurveyMonkey | Spring Boot CRUD Web App</a></li>
+  </ul>
 </details>
+
+<details>
+  <summary><h2>📈 GitHub Stats </h2></summary>
+  <p align="center">
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://streak-stats.demolab.com?user=vikiru&theme=monokai-metallian&hide_border=true&card_width=500&dates=61DBFA&currStreakNum=61DBFA&ring=61DBFA&currStreakLabel=61DBFA&sideNums=61DBFA&sideLabels=61DBFA&fire=61DBFA" alt="Visakan Kirubakaran's Programming Streak"/></a>
+  </p>
+  <p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/?username=vikiru&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E" height="192px" width="400px" alt="Visakan Kirubakaran's Github Stats" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikiru&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E" height="192px" width="360px" alt="Visakan Kirubakaran's Most Used Languages"/></a>
+  </p>
+</details>
+
+
