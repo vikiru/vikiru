@@ -64,18 +64,19 @@
 ![CircleCI](https://img.shields.io/badge/CIRCLECI-02303A.svg?style=for-the-badge&logo=CIRCLECI&logoColor=white&color=%23343434)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-## 🚀 GitHub Projects 
-|                    Project Name                   	|                   Technologies Used                   	|                            Link                            	|
-|:-------------------------------------------------:	|:-----------------------------------------------------:	|:----------------------------------------------------------:	|
-|         Urvo \| Multi-purpose Discord Bot         	|       `Node.js, SQLite, Sequelize, Mocha, Chai`       	|        [GitHub Repo](https://github.com/vikiru/Urvo)       	|
-|         CodeSmell \| Static Analysis Tool         	| `Java, Python, JavaFX WebView, HTML, CSS, JavaScript` 	|     [GitHub Repo](https://github.com/vikiru/CodeSmell)     	|
-| discrete-sim \| Manufacturing Facility Simulation 	|             `Python, NumPy, SciPy, SimPy`             	|    [GitHub Repo](https://github.com/vikiru/discrete-sim)   	|
-|   Mini-SurveyMonkey \| Spring Boot CRUD Web App   	|    `Java, Spring Boot, Thymeleaf, JUnit, HTML, CSS`   	| [GitHub Repo](https://github.com/vikiru/Mini-SurveyMonkey) 	|
-|       Elevator Simulator \| Threads and UDP       	|                     `Java, JUnit`                     	|                          `private`                         	|
-|           digitalRisk \| MVC Swing Game           	|                  `Java, JUnit, Swing`                 	|    [GitHub Repo](https://github.com/flavji/digitalRisk)    	|
+## 🚀 GitHub Projects
+
+|                   Project Name                    |                                Technologies Used                                 |                            Link                            |
+| :-----------------------------------------------: | :------------------------------------------------------------------------------: | :--------------------------------------------------------: |
+|         Urvo \| Multi-purpose Discord Bot         |                `Node.js`, `SQLite`, `Sequelize`, `Mocha`, `Chai`                 |       [GitHub Repo](https://github.com/vikiru/Urvo)        |
+|         CodeSmell \| Static Analysis Tool         | `Java`,`Maven`, `JUnit`, `Python`, `JavaFX WebView`, `HTML`, `CSS`, `JavaScript` |     [GitHub Repo](https://github.com/vikiru/CodeSmell)     |
+| discrete-sim \| Manufacturing Facility Simulation |                       `Python`, `NumPy`, `SciPy`, `SimPy`                        |   [GitHub Repo](https://github.com/vikiru/discrete-sim)    |
+|   Mini-SurveyMonkey \| Spring Boot CRUD Web App   |       `Java`, `Maven`, `Spring Boot`, `Thymeleaf`, `JUnit`, `HTML`, `CSS`        | [GitHub Repo](https://github.com/vikiru/Mini-SurveyMonkey) |
+|       Elevator Simulator \| Threads and UDP       |                             `Java`, `Maven`, `JUnit`                             |                         `private`                          |
+|           digitalRisk \| MVC Swing Game           |                        `Java`, `Maven`, `JUnit`, `Swing`                         |    [GitHub Repo](https://github.com/flavji/digitalRisk)    |
 
 <details>
-  <summary><h2>📈 GitHub Stats </h2></summary>
+  <summary><h2>📈 GitHub Stats</h2></summary>
   <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/?username=vikiru&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E" width="400px" alt="Visakan Kirubakaran's Github Stats" /></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikiru&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E" height="167px"  alt="Visakan Kirubakaran's Most Used Languages"/></a>
@@ -85,7 +86,7 @@
 
 <details>
   <summary><h2>⌨️ Dev Breakdown</h2></summary>
-  <!--START_SECTION:waka-->
+<!--START_SECTION:waka-->
 
 ```python
 From: 15 November 2023 - To: 22 November 2023
@@ -100,4 +101,3 @@ Other        2 mins          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 </details>
-
