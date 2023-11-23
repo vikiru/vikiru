@@ -17,8 +17,6 @@
   <img src="https://komarev.com/ghpvc/?username=vikiru">
 </p>
 
-![]()
-
 # 💻 Tech Stack
 
 ## Programming Languages
