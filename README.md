@@ -89,15 +89,15 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 16 November 2023 - To: 23 November 2023
+From: 17 November 2023 - To: 24 November 2023
 
-Total Time: 8 hrs 18 mins
+Total Time: 9 hrs 25 mins
 
-JavaScript   4 hrs 14 mins   ████████████▓░░░░░░░░░░░░   50.96 %
-Markdown     2 hrs 42 mins   ████████░░░░░░░░░░░░░░░░░   32.49 %
-HTML         44 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 %
-JSON         34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+JavaScript   4 hrs 14 mins   ███████████▒░░░░░░░░░░░░░   44.99 %
+Markdown     3 hrs 48 mins   ██████████░░░░░░░░░░░░░░░   40.40 %
+HTML         44 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
+JSON         34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
+Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 ```
 
 <!--END_SECTION:waka-->
