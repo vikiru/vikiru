@@ -65,7 +65,8 @@
 ![CircleCI](https://img.shields.io/badge/CIRCLECI-02303A.svg?style=for-the-badge&logo=CIRCLECI&logoColor=white&color=%23343434)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-## 🚀 GitHub Projects
+<details>
+<summary><h2>🚀 GitHub Projects</h2></summary>
 
 |                   Project Name                    |                                Technologies Used                                 |                            Link                            |
 | :-----------------------------------------------: | :------------------------------------------------------------------------------: | :--------------------------------------------------------: |
@@ -76,6 +77,7 @@
 |   Mini-SurveyMonkey \| Spring Boot CRUD Web App   |       `Java`, `Maven`, `Spring Boot`, `Thymeleaf`, `JUnit`, `HTML`, `CSS`        | [GitHub Repo](https://github.com/vikiru/Mini-SurveyMonkey) |
 |       Elevator Simulator \| Threads and UDP       |                             `Java`, `Maven`, `JUnit`                             |                         `private`                          |
 |           digitalRisk \| MVC Swing Game           |                        `Java`, `Maven`, `JUnit`, `Swing`                         |    [GitHub Repo](https://github.com/flavji/digitalRisk)    |
+</details>
 
 <details>
   <summary><h2>📈 GitHub Stats</h2></summary>
