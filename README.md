@@ -93,18 +93,18 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 23 November 2023 - To: 30 November 2023
+From: 25 November 2023 - To: 02 December 2023
 
-Total Time: 29 hrs 30 mins
+Total Time: 26 hrs 49 mins
 
-JavaScript   21 hrs 52 mins  ██████████████████▓░░░░░░   74.10 %
-CSS          2 hrs 32 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 %
-Markdown     2 hrs 26 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 %
-JSON         1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
-YAML         39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
-HTML         36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
-Git Config   10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-Other        7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+JavaScript   19 hrs 38 mins  ██████████████████▒░░░░░░   73.25 %
+CSS          3 hrs 1 min     ██▓░░░░░░░░░░░░░░░░░░░░░░   11.28 %
+Markdown     1 hr 21 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
+JSON         59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
+YAML         47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
+HTML         40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
+Git Config   10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+Other        9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 ```
 
 <!--END_SECTION:waka-->
