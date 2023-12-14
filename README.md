@@ -93,11 +93,12 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 04 December 2023 - To: 11 December 2023
+From: 06 December 2023 - To: 13 December 2023
 
 Total Time: 0 secs
 
-Markdown   0 secs          █████████████████████████   100.00 %
+Markdown   0 secs          ███████████████████▒░░░░░   77.23 %
+JSON       0 secs          █████▓░░░░░░░░░░░░░░░░░░░   22.77 %
 ```
 
 <!--END_SECTION:waka-->
