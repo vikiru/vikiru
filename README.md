@@ -93,12 +93,15 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 06 December 2023 - To: 13 December 2023
+From: 07 December 2023 - To: 14 December 2023
 
-Total Time: 0 secs
+Total Time: 28 mins
 
-Markdown   0 secs          ███████████████████▒░░░░░   77.23 %
-JSON       0 secs          █████▓░░░░░░░░░░░░░░░░░░░   22.77 %
+Python     14 mins         ████████████▓░░░░░░░░░░░░   50.19 %
+YAML       11 mins         █████████▓░░░░░░░░░░░░░░░   38.82 %
+Gherkin    2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.80 %
+Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
 <!--END_SECTION:waka-->
