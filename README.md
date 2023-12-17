@@ -93,15 +93,16 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 08 December 2023 - To: 15 December 2023
+From: 09 December 2023 - To: 16 December 2023
 
-Total Time: 28 mins
+Total Time: 2 hrs 20 mins
 
-Python     14 mins         ████████████▓░░░░░░░░░░░░   50.19 %
-YAML       11 mins         █████████▓░░░░░░░░░░░░░░░   38.82 %
-Gherkin    2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.80 %
-Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
-JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Python     1 hr 22 mins    ██████████████▓░░░░░░░░░░   58.35 %
+YAML       29 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.99 %
+Markdown   12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.87 %
+Docker     10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
+Gherkin    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+Other      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
 ```
 
 <!--END_SECTION:waka-->
