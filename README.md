@@ -59,18 +59,19 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 14 December 2023 - To: 21 December 2023
+From: 15 December 2023 - To: 22 December 2023
 
-Total Time: 18 hrs 7 mins
+Total Time: 19 hrs 28 mins
 
-JavaScript   11 hrs 56 mins  ████████████████▒░░░░░░░░   65.91 %
-YAML         2 hrs 15 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.45 %
-JSON         1 hr 15 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 %
-Python       1 hr 7 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
-Markdown     48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
-CSS          22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
-Docker       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
-Other        6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+JavaScript   12 hrs 36 mins  ████████████████▒░░░░░░░░   64.77 %
+YAML         2 hrs 15 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.59 %
+JSON         1 hr 17 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
+Python       1 hr 14 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
+Markdown     1 hr 3 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 %
+CSS          22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+Java         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+Docker       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+Other        6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
 ```
 
 <!--END_SECTION:waka-->
