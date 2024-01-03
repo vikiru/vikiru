@@ -24,7 +24,7 @@
 
 **Libraries**: NumPy, SciPy, SimPy, Pandas, Chai
 
-**Tools**: Maven, npm, pip, git, GitHub, GitHub Desktop, Postman, ESLint, Prettier
+**Tools**: Maven, npm, pip, git, GitHub, GitHub Desktop, Postman
 
 **Database**: MySQL, SQLite, MongoDB, Sequelize
 
