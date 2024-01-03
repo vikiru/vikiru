@@ -20,21 +20,21 @@
 
 **Languages**: Java, Python, HTML, CSS, JavaScript
 
-**Runtime**: Node.js
-
 **Frameworks**: Spring, JUnit5, Mocha, Chai, Django, Flask, React, TailwindCSS
 
 **Libraries**: NumPy, SciPy, SimPy, Pandas, Chai
+
+**Tools**: Maven, npm, pip, git, GitHub, GitHub Desktop, Postman, ESLint, Prettier
 
 **Database**: MySQL, SQLite, MongoDB, Sequelize
 
 **DevOps**: CircleCI, GitHub Actions, Snyk
 
-**Tools**: Maven, npm, pip, git, GitHub, GitHub Desktop, Postman, ESLint, Prettier
-
 **Editor/IDE**: VSCode, IntelliJ, Eclipse
 
 **Hosting**: GitHub Pages, Heroku, Render
+
+**Runtime**: Node.js
 
 **OS**: Windows, Ubuntu
 
