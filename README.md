@@ -1,7 +1,10 @@
 <h1 align="center">Hello, my name is Visakan Kirubakaran 👋 </h1> 
 <p align="center">
+  <a href="https://vikiru.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Website URL">
+  </a>
   <a href="https://www.linkedin.com/in/viskirubakaran/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile URL">
   </a>
   <a href="https://wakatime.com/@vikiru">
     <img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white">
