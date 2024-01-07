@@ -1,6 +1,6 @@
 <h1 align="center">Hello, my name is Visakan Kirubakaran 👋 </h1> 
 <p align="center">
-  <a href="https://vikiru.github.io/">
+  <a href="https://vikiru.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Website URL">
   </a>
   <a href="https://www.linkedin.com/in/viskirubakaran/">
@@ -47,7 +47,7 @@
 
 |                   Project Name                    |                                Technologies Used                                 |                            Link                            |
 | :-----------------------------------------------: | :------------------------------------------------------------------------------: | :--------------------------------------------------------: |
-| Portfolio Website                                 | `React`, `TailwindCSS`                                                           | [GitHub Repo](https://github.com/vikiru/vikiru.github.io)  |
+| Portfolio Website                                 |                     `React`, `React Router` `TailwindCSS`                        | [GitHub Repo](https://github.com/vikiru/vikiru.github.io)  |
 |         Urvo \| Multi-purpose Discord Bot         |                `Node.js`, `SQLite`, `Sequelize`, `Mocha`, `Chai`                 |       [GitHub Repo](https://github.com/vikiru/Urvo)        |
 |         CodeSmell \| Static Analysis Tool         | `Java`,`Maven`, `JUnit`, `Python`, `JavaFX WebView`, `HTML`, `CSS`, `JavaScript` |     [GitHub Repo](https://github.com/vikiru/CodeSmell)     |
 | discrete-sim \| Manufacturing Facility Simulation |                       `Python`, `NumPy`, `SciPy`, `SimPy`                        |   [GitHub Repo](https://github.com/vikiru/discrete-sim)    |
