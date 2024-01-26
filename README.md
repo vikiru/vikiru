@@ -70,14 +70,14 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 17 January 2024 - To: 24 January 2024
+From: 18 January 2024 - To: 25 January 2024
 
-Total Time: 29 hrs 27 mins
+Total Time: 22 hrs 8 mins
 
-JavaScript    25 hrs 40 mins  █████████████████████▓░░░   87.17 %
-JSON          1 hr 56 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
-Markdown      1 hr 28 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
-Other         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+JavaScript    18 hrs 42 mins  █████████████████████░░░░   84.44 %
+JSON          1 hr 38 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
+Markdown      1 hr 28 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
+Other         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
 ```
 
 <!--END_SECTION:waka-->
