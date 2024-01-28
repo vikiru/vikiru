@@ -45,8 +45,6 @@
 <details>
 <summary><h2>🚀 GitHub Projects</h2></summary>
 
-## 🚀 GitHub Projects
-
 - **Portfolio Website**
   - Technologies Used: `React`, `React Router`, `TailwindCSS`
   - [GitHub Repo](https://github.com/vikiru/vikiru.github.io)
