@@ -23,13 +23,13 @@
 
 **Languages**: Java, Python, HTML, CSS, JavaScript
 
-**Frameworks**: Spring, JUnit5, Mocha, Chai, Django, Flask, React, TailwindCSS
+**Frameworks**: Spring, JUnit5, Mocha, Django, Flask, React, Express.js
 
-**Libraries**: NumPy, SciPy, SimPy, Pandas, Chai
+**Libraries**: NumPy, SciPy, SimPy, Pandas, Sinon, Chai
 
 **Tools**: Maven, npm, pip, git, GitHub, GitHub Desktop, Postman
 
-**Database**: MySQL, SQLite, MongoDB, Sequelize
+**Database**: MySQL, SQLite, MongoDB, Sequelize, Mongoose
 
 **DevOps**: CircleCI, GitHub Actions, Snyk
 
