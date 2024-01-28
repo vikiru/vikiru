@@ -45,15 +45,36 @@
 <details>
 <summary><h2>🚀 GitHub Projects</h2></summary>
 
-|                   Project Name                    |                                Technologies Used                                 |                            Link                            |
-| :-----------------------------------------------: | :------------------------------------------------------------------------------: | :--------------------------------------------------------: |
-| Portfolio Website                                 |                     `React`, `React Router`, `TailwindCSS`                        | [GitHub Repo](https://github.com/vikiru/vikiru.github.io)  |
-|         Urvo \| Multi-purpose Discord Bot         |                `Node.js`, `SQLite`, `Sequelize`, `Mocha`, `Chai`                 |       [GitHub Repo](https://github.com/vikiru/Urvo)        |
-|         CodeSmell \| Static Analysis Tool         | `Java`,`Maven`, `JUnit`, `Python`, `JavaFX WebView`, `HTML`, `CSS`, `JavaScript` |     [GitHub Repo](https://github.com/vikiru/CodeSmell)     |
-| discrete-sim \| Manufacturing Facility Simulation |                       `Python`, `NumPy`, `SciPy`, `SimPy`                        |   [GitHub Repo](https://github.com/vikiru/discrete-sim)    |
-|   Mini-SurveyMonkey \| Spring Boot CRUD Web App   |       `Java`, `Maven`, `Spring Boot`, `Thymeleaf`, `JUnit`, `HTML`, `CSS`        | [GitHub Repo](https://github.com/vikiru/Mini-SurveyMonkey) |
-|       Elevator Simulator \| Threads and UDP       |                             `Java`, `Maven`, `JUnit`                             |                         `private`                          |
-|           digitalRisk \| MVC Swing Game           |                        `Java`, `Maven`, `JUnit`, `Swing`                         |    [GitHub Repo](https://github.com/flavji/digitalRisk)    |
+## 🚀 GitHub Projects
+
+- **Portfolio Website**
+  - Technologies Used: `React`, `React Router`, `TailwindCSS`
+  - [GitHub Repo](https://github.com/vikiru/vikiru.github.io)
+
+- **Urvo | Multi-purpose Discord Bot**
+  - Technologies Used: `Node.js`, `SQLite`, `Sequelize`, `Mocha`, `Chai`
+  - [GitHub Repo](https://github.com/vikiru/Urvo)
+
+- **CodeSmell | Static Analysis Tool**
+  - Technologies Used: `Java`,`Maven`, `JUnit`, `Python`, `JavaFX WebView`, `HTML`, `CSS`, `JavaScript`
+  - [GitHub Repo](https://github.com/vikiru/CodeSmell)
+
+- **discrete-sim | Manufacturing Facility Simulation**
+  - Technologies Used: `Python`, `NumPy`, `SciPy`, `SimPy`
+  - [GitHub Repo](https://github.com/vikiru/discrete-sim)
+
+- **Mini-SurveyMonkey | Spring Boot CRUD Web App**
+  - Technologies Used: `Java`, `Maven`, `Spring Boot`, `Thymeleaf`, `JUnit`, `HTML`, `CSS`
+  - [GitHub Repo](https://github.com/vikiru/Mini-SurveyMonkey)
+
+- **Elevator Simulator | Threads and UDP**
+  - Technologies Used: `Java`, `Maven`, `JUnit`
+  - GitHub Repo: `private`
+
+- **digitalRisk | MVC Swing Game**
+  - Technologies Used: `Java`, `Maven`, `JUnit`, `Swing`
+  - [GitHub Repo](https://github.com/flavji/digitalRisk)
+
 </details>
 
 <details>
