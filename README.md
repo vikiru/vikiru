@@ -45,7 +45,7 @@
 <details>
 <summary><h2>🚀 GitHub Projects</h2></summary>
 
-- **RESTasaurus**
+- **RESTasaurus | Dinosaur REST API**
   - Technologies Used: `Express.js`, `MongoDB`, `Mongoose`, `Sinon`, `Mocha`, `Chai`
   - [GitHub Repo](https://github.com/vikiru/restasaurus)
   - [Project Showcase Page](https://vikiru.vercel.app/projects/RESTasaurus)
