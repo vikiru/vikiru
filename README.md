@@ -4,10 +4,13 @@
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Website URL">
   </a>
   <a href="https://www.linkedin.com/in/viskirubakaran/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile URL" />
   </a>
   <a href="https://wakatime.com/@vikiru">
-    <img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white">
+    <img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white" alt="WakaTime Profile URL"/>
+  </a>
+  <a href="https://linktree.com/viskirubakaran">
+    <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree URL"/>
   </a>
 </p>
 
