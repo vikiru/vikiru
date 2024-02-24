@@ -12,6 +12,9 @@
   <a href="https://linktree.com/viskirubakaran">
     <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree URL"/>
   </a>
+  <a href="https://www.coursera.org/user/6b418d7a562f91c50c9185d76bd9b908">
+    <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera Profile URL" />
+  </a>
 </p>
 
 ## 🎓 Education
