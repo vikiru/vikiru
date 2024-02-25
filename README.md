@@ -107,12 +107,12 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 16 February 2024 - To: 23 February 2024
+From: 17 February 2024 - To: 24 February 2024
 
-Total Time: 64 hrs 58 mins
+Total Time: 62 hrs 30 mins
 
-JavaScript   37 hrs 42 mins  ██████████████▓░░░░░░░░░░   58.04 %
-Other        20 hrs 43 mins  ████████░░░░░░░░░░░░░░░░░   31.88 %
+JavaScript   35 hrs 43 mins  ██████████████▒░░░░░░░░░░   57.15 %
+Other        21 hrs 25 mins  ████████▓░░░░░░░░░░░░░░░░   34.27 %
 ```
 
 <!--END_SECTION:waka-->
