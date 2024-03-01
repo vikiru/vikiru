@@ -1,4 +1,5 @@
 <h1 align="center">Hello, my name is Visakan Kirubakaran 👋 </h1> 
+
 <p align="center">
   <a href="https://vikiru.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Website URL">
@@ -16,6 +17,10 @@
     <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera Profile URL" />
   </a>
 </p>
+
+I am a software developer with a passion for software and web development. Equipped with a solid foundation of knowledge and a thirst for learning, I am eager to navigate the dynamic landscape of the industry. My readiness to embrace challenges, both familiar and unfamiliar, is fueled by a passion for problem-solving and innovation.
+
+I am committed to leveraging my skills and education to contribute to meaningful projects, fostering growth and driving progress.
 
 ## 🎓 Education
 
