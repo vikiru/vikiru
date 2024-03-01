@@ -107,11 +107,11 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 21 February 2024 - To: 28 February 2024
+From: 22 February 2024 - To: 29 February 2024
 
-Total Time: 64 hrs 25 mins
+Total Time: 62 hrs 59 mins
 
-Other        37 hrs 2 mins   ██████████████▒░░░░░░░░░░   57.49 %
+Other        35 hrs 40 mins  ██████████████░░░░░░░░░░░   56.63 %
 ```
 
 <!--END_SECTION:waka-->
