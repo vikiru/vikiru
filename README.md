@@ -29,9 +29,9 @@
 
 **Languages**: Java, Python, HTML, CSS, JavaScript
 
-**Frameworks**: Spring, JUnit5, Mocha, Django, Flask, React, Express.js
+**Frameworks**: Spring, JUnit5, Mocha, Express.js, React, React Router, Django, Flask 
 
-**Libraries**: NumPy, SciPy, SimPy, Pandas, Sinon, Chai
+**Libraries**: NumPy, SciPy, SimPy, Pandas, Sinon, Chai, DaisyUI
 
 **Tools**: Maven, npm, pip, git, GitHub, GitHub Desktop, Postman
 
@@ -41,15 +41,16 @@
 
 **Editor/IDE**: VSCode, IntelliJ, Eclipse
 
-**Hosting**: GitHub Pages, Heroku, Render
+**Hosting**: GitHub Pages, Heroku, Render, Vercel, Firebase
 
 **Runtime**: Node.js
 
 **OS**: Windows, Ubuntu
 
+## 📝 Additional Info
 
 <details>
-<summary><h2>🚀 GitHub Projects</h2></summary>
+<summary>🚀 GitHub Projects</summary>
 
 - **RESTasaurus | Dinosaur REST API**
   - Technologies Used: `Express.js`, `MongoDB`, `Mongoose`, `Sinon`, `Mocha`, `Chai`
@@ -67,7 +68,7 @@
   - [Project Showcase Page](https://vikiru.vercel.app/projects/Urvo)
 
 - **CodeSmell | Static Analysis Tool**
-  - Technologies Used: `Java`,`Maven`, `JUnit`, `Python`, `JavaFX WebView`, `HTML`, `CSS`, `JavaScript`
+  - Technologies Used: `Java`, `Maven`, `JUnit`, `Python`, `JavaFX WebView`, `HTML`, `CSS`, `JavaScript`
   - [GitHub Repo](https://github.com/vikiru/CodeSmell)
   - [Project Showcase Page](https://vikiru.vercel.app/projects/CodeSmell)
 
@@ -93,8 +94,10 @@
 
 </details>
 
+<br/>
+
 <details>
-  <summary><h2>📈 GitHub Stats</h2></summary>
+  <summary>📈 GitHub Stats</summary>
   <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/?username=vikiru&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E" width="400px" alt="Visakan Kirubakaran's Github Stats" /></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikiru&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E" height="167px"  alt="Visakan Kirubakaran's Most Used Languages"/></a>
@@ -102,8 +105,10 @@
   </p>
 </details>
 
+<br/>
+
 <details>
-  <summary><h2>⌨️ Dev Breakdown</h2></summary>
+  <summary>⌨️ Dev Breakdown</summary>
 <!--START_SECTION:waka-->
 
 ```python
