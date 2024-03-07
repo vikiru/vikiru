@@ -57,6 +57,11 @@ I am committed to leveraging my skills and education to contribute to meaningful
 <details>
 <summary>🚀 GitHub Projects</summary>
 
+- **Kelbrum | Anime Recommendation System**
+  - Technologies Used: `Node.js`, `React`, `React Router`, `TailwindCSS`, `DaisyUI`, `Tensorflow.js`
+  - [GitHub Repo](https://github.com/vikiru/kelbrum)
+  - [Project Showcase Page](https://vikiru.vercel.app/projects/Kelbrum)
+  
 - **RESTasaurus | Dinosaur REST API**
   - Technologies Used: `Express.js`, `MongoDB`, `Mongoose`, `Sinon`, `Mocha`, `Chai`
   - [GitHub Repo](https://github.com/vikiru/restasaurus)
