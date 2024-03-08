@@ -122,14 +122,17 @@ I am committed to leveraging my skills and education to contribute to meaningful
 <!--START_SECTION:waka-->
 
 ```python
-From: 28 February 2024 - To: 06 March 2024
+From: 29 February 2024 - To: 07 March 2024
 
-Total Time: 68 hrs 44 mins
+Total Time: 70 hrs 47 mins
 
-JavaScript   54 hrs 21 mins  ███████████████████▓░░░░░   79.09 %
-Markdown     5 hrs 50 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
-JSON         4 hrs 53 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 %
-Other        1 hr 48 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
+JavaScript   57 hrs 53 mins  ████████████████████▒░░░░   81.77 %
+Markdown     5 hrs 50 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 %
+JSON         4 hrs 52 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
+HTML         51 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+CSS          27 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+TypeScript   26 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+Other        13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
