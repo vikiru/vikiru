@@ -122,18 +122,18 @@ I am committed to leveraging my skills and education to contribute to meaningful
 <!--START_SECTION:waka-->
 
 ```python
-From: 05 March 2024 - To: 12 March 2024
+From: 06 March 2024 - To: 13 March 2024
 
-Total Time: 28 hrs 2 mins
+Total Time: 16 hrs 25 mins
 
-JavaScript   24 hrs 51 mins  ██████████████████████▒░░   88.69 %
-Markdown     1 hr 19 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
-JSON         38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
-XML          27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
-HTML         22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
-TypeScript   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
-CSS          6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+JavaScript   14 hrs 36 mins  ██████████████████████▒░░   88.90 %
+XML          27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
+Markdown     22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+HTML         21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+JSON         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
+TypeScript   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+CSS          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
