@@ -34,7 +34,7 @@ I am committed to leveraging my skills and education to contribute to meaningful
 
 **Languages**: Java, Python, HTML, CSS, JavaScript
 
-**Frameworks**: Spring, JUnit5, Mocha, Express.js, React, React Router, Django, Flask 
+**Frameworks**: Spring, JUnit5, Mocha, Express.js, React, React Router, Django, Flask
 
 **Libraries**: NumPy, SciPy, SimPy, Pandas, Sinon, Chai, DaisyUI
 
@@ -46,7 +46,7 @@ I am committed to leveraging my skills and education to contribute to meaningful
 
 **Editor/IDE**: VSCode, IntelliJ, Eclipse
 
-**Hosting**: GitHub Pages, Heroku, Render, Vercel, Firebase
+**Hosting**: GitHub Pages, Heroku, Render, Vercel, Firebase, Fl0
 
 **Runtime**: Node.js
 
@@ -61,6 +61,11 @@ I am committed to leveraging my skills and education to contribute to meaningful
   - Technologies Used: `Node.js`, `React`, `React Router`, `TailwindCSS`, `DaisyUI`, `Tensorflow.js`
   - [GitHub Repo](https://github.com/vikiru/kelbrum)
   - [Project Showcase Page](https://vikiru.vercel.app/projects/Kelbrum)
+ 
+- **Parseum | Markdown Editor and Parser**
+  - Technologies Used: `Node.js`, `Peggy.js`, `React`, `TailwindCSS`, `DaisyUI`
+  - [GitHub Repo](https://github.com/vikiru/parseum)
+  - [Project Showcase Page](https://vikiru.vercel.app/projects/Parseum)
   
 - **RESTasaurus | Dinosaur REST API**
   - Technologies Used: `Express.js`, `MongoDB`, `Mongoose`, `Sinon`, `Mocha`, `Chai`
