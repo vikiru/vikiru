@@ -22,9 +22,11 @@ I am a software developer with a passion for software and web development. Equip
 
 I am committed to leveraging my skills and education to contribute to meaningful projects, fostering growth and driving progress.
 
+Feel free to [contact me](https://vikiru.vercel.app/contact) or check out my [GitHub repositories](https://github.com/vikiru?tab=repositories&q=&type=&language=&sort=stargazers)!
+
 ## 🎓 Education
 
-**Bachelor of Engineering - BEng., Software Engineering** - Carleton University (Sept 2018 - Apr 2023)
+**Bachelor of Engineering - BEng., Software Engineering** - **Carleton University** (Sept 2018 - Apr 2023)
 
 **IBM Full Stack Software Developer Certificate** - [Coursera](https://coursera.org/share/2c288e462af814df334a75f4e59cbfe6) (Oct 2023 - Nov 2023)
 
