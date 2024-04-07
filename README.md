@@ -129,11 +129,11 @@ Feel free to [contact me](https://vikiru.vercel.app/contact) or check out my [Gi
 <!--START_SECTION:waka-->
 
 ```python
-From: 29 March 2024 - To: 05 April 2024
+From: 30 March 2024 - To: 06 April 2024
 
-Total Time: 27 hrs 48 mins
+Total Time: 26 hrs 59 mins
 
-Other         18 hrs 11 mins  ████████████████▒░░░░░░░░   65.40 %
+Other         17 hrs 23 mins  ████████████████░░░░░░░░░   64.44 %
 ```
 
 <!--END_SECTION:waka-->
