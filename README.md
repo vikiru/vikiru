@@ -27,13 +27,16 @@ Feel free to [contact me](https://vikiru.vercel.app/contact) or check out my [Gi
 ## 🎓 Education
 
 **Bachelor of Engineering - BEng., Software Engineering** - *Carleton University*  
-<p align="right">Sept 2018 - Apr 2023</p>
+
+Sept 2018 - Apr 2023
 
 **IBM DevOps and Software Engineering Certificate** - [*Coursera*](https://coursera.org/share/ff5dc718cd4f17208f60c5004f079928) 
-<p align="right">Nov 2023 - Dec 2023</p>
+
+Nov 2023 - Dec 2023
 
 **IBM Full Stack Software Developer** - [*Coursera*](https://coursera.org/share/2c288e462af814df334a75f4e59cbfe6)  
-<p align="right">Oct 2023 - Nov 2023</p>
+
+Oct 2023 - Nov 2023
 
 ## 💡 Skills
 
