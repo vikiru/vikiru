@@ -36,11 +36,9 @@ Feel free to [contact me](https://vikiru.vercel.app/contact) or check out my [Gi
 
 **Languages**: Java, Python, HTML, CSS, JavaScript
 
-**Frameworks**: Spring, JUnit5, Mocha, Express.js, React, React Router, Django, Flask
+**Frameworks/Libraries**: Express.js, React, React Router, TailwindCSS, DaisyUI, Mocha, Sinon, Chai, JUnit, Spring, NumPy, SciPy, SimPy, Pandas, Django, Flask
 
-**Libraries**: NumPy, SciPy, SimPy, Pandas, Sinon, Chai, DaisyUI
-
-**Tools**: Maven, npm, pip, git, GitHub, GitHub Desktop, Postman
+**Tools**: Node.js, Maven, npm, pip, git, GitHub, GitHub Desktop, Postman
 
 **Database**: MySQL, SQLite, MongoDB, Sequelize, Mongoose
 
@@ -48,9 +46,7 @@ Feel free to [contact me](https://vikiru.vercel.app/contact) or check out my [Gi
 
 **Editor/IDE**: VSCode, IntelliJ, Eclipse
 
-**Hosting**: GitHub Pages, Heroku, Render, Vercel, Firebase, Fl0
-
-**Runtime**: Node.js
+**Hosting**: GitHub Pages, Heroku, Render, Vercel, Firebase, Fl0, Surge.sh
 
 **OS**: Windows, Ubuntu
 
