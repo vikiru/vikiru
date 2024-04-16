@@ -131,11 +131,14 @@ Oct 2023 - Nov 2023
 <!--START_SECTION:waka-->
 
 ```python
-From: 07 April 2024 - To: 14 April 2024
+From: 08 April 2024 - To: 15 April 2024
 
-Total Time: 0 secs
+Total Time: 54 mins
 
-No activity tracked
+JavaScript   19 mins         █████████░░░░░░░░░░░░░░░░   35.60 %
+Markdown     15 mins         ███████▒░░░░░░░░░░░░░░░░░   28.85 %
+JSON         12 mins         ██████░░░░░░░░░░░░░░░░░░░   23.90 %
+CSS          6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.66 %
 ```
 
 <!--END_SECTION:waka-->
