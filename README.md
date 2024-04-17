@@ -131,14 +131,15 @@ Oct 2023 - Nov 2023
 <!--START_SECTION:waka-->
 
 ```python
-From: 08 April 2024 - To: 15 April 2024
+From: 09 April 2024 - To: 16 April 2024
 
-Total Time: 54 mins
+Total Time: 58 mins
 
-JavaScript   19 mins         █████████░░░░░░░░░░░░░░░░   35.60 %
-Markdown     15 mins         ███████▒░░░░░░░░░░░░░░░░░   28.85 %
-JSON         12 mins         ██████░░░░░░░░░░░░░░░░░░░   23.90 %
-CSS          6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.66 %
+JavaScript   19 mins         ████████▒░░░░░░░░░░░░░░░░   32.87 %
+Markdown     15 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.64 %
+JSON         12 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.07 %
+CSS          6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.77 %
+Java         4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
 ```
 
 <!--END_SECTION:waka-->
