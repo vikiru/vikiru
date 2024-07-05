@@ -131,14 +131,17 @@ Oct 2023 - Nov 2023
 <!--START_SECTION:waka-->
 
 ```python
-From: 26 June 2024 - To: 03 July 2024
+From: 27 June 2024 - To: 04 July 2024
 
-Total Time: 57 mins
+Total Time: 1 hr 43 mins
 
-Markdown     53 mins         ███████████████████████░░   92.32 %
-Git Config   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
-JSON         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Markdown     1 hr            ██████████████▓░░░░░░░░░░   58.36 %
+JSON         13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.03 %
+TypeScript   9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.41 %
+Git Config   8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
+Bash         5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
+JavaScript   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
+Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
 ```
 
 <!--END_SECTION:waka-->
