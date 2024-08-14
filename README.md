@@ -131,15 +131,16 @@ Oct 2023 - Nov 2023
 <!--START_SECTION:waka-->
 
 ```python
-From: 05 August 2024 - To: 12 August 2024
+From: 06 August 2024 - To: 13 August 2024
 
-Total Time: 7 hrs 43 mins
+Total Time: 9 hrs 2 mins
 
-TypeScript   2 hrs 58 mins   █████████▓░░░░░░░░░░░░░░░   38.45 %
-Markdown     2 hrs 55 mins   █████████▒░░░░░░░░░░░░░░░   37.95 %
-JavaScript   59 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.88 %
-JSON         36 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 %
-YAML         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+TypeScript   4 hrs 13 mins   ███████████▓░░░░░░░░░░░░░   46.76 %
+Markdown     2 hrs 56 mins   ████████░░░░░░░░░░░░░░░░░   32.45 %
+JavaScript   1 hr 2 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.54 %
+JSON         36 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
+YAML         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
