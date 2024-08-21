@@ -131,13 +131,13 @@ Oct 2023 - Nov 2023
 <!--START_SECTION:waka-->
 
 ```python
-From: 12 August 2024 - To: 19 August 2024
+From: 13 August 2024 - To: 20 August 2024
 
-Total Time: 10 hrs 1 min
+Total Time: 8 hrs 42 mins
 
-TypeScript   7 hrs 58 mins   ████████████████████░░░░░   79.60 %
-JSON         1 hr            ██▓░░░░░░░░░░░░░░░░░░░░░░   10.05 %
-Other        29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
+TypeScript   6 hrs 43 mins   ███████████████████▒░░░░░   77.16 %
+JSON         1 hr            ███░░░░░░░░░░░░░░░░░░░░░░   11.56 %
+Other        28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
 ```
 
 <!--END_SECTION:waka-->
