@@ -131,17 +131,17 @@ Oct 2023 - Nov 2023
 <!--START_SECTION:waka-->
 
 ```python
-From: 19 August 2024 - To: 26 August 2024
+From: 20 August 2024 - To: 27 August 2024
 
-Total Time: 9 hrs 59 mins
+Total Time: 15 hrs 34 mins
 
-TypeScript   6 hrs 47 mins   █████████████████░░░░░░░░   67.91 %
-JSON         1 hr 22 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.83 %
-Prisma       34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 %
-Bash         30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
-JavaScript   16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
-TSConfig     14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
-Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+TypeScript   11 hrs 58 mins  ███████████████████▒░░░░░   76.82 %
+JSON         1 hr 37 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.46 %
+Prisma       34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
+Bash         31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
+TSConfig     23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
+JavaScript   17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+Other        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 ```
 
 <!--END_SECTION:waka-->
