@@ -34,7 +34,8 @@ Feel free to [contact me](https://vikiru.vercel.app/contact) or check out my [Gi
 
 ## 💡 Skills
 
-🖥️ Programming Languages: `Java` • `Python` • `JavaScript` • `HTML` • `CSS` 
+🖥️ Programming Languages: 
+- `Java` | `Python` | `JavaScript` | `TypeScript` | `HTML` | `CSS` 
 
 🛠️ Frameworks & Libraries: 
 - `Express.js` | `React` | `React Router` | `TailwindCSS` | `DaisyUI` | `Mocha` | `Chai` | `Sinon`
@@ -53,14 +54,15 @@ Feel free to [contact me](https://vikiru.vercel.app/contact) or check out my [Gi
 - `CircleCI` | `GitHub Actions` | `Snyk`
 - `GitHub Pages` | `Heroku` | `Render` | `Vercel` | `Firebase` | `Fl0` | `Surge.sh`
 
-📝 IDEs & Editors: `VS Code` | `IntelliJ` | `Eclipse`
+📝 IDEs & Editors: 
+- `VS Code` | `IntelliJ` | `Eclipse`
 
 💻 Operating Systems: `Windows` | `Ubuntu`
 
 ## 📝 Additional Info
 
 <details>
-<summary>🚀 Personal Projects</summary>
+<summary>🚀 GitHub Projects</summary>
 
 🔮 **Kelbrum** - Anime recommendation system based on similarity
 - [🔗 GitHub](https://github.com/vikiru/kelbrum) | [🌐 Showcase](https://vikiru.vercel.app/projects/Kelbrum)
