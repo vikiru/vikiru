@@ -28,88 +28,79 @@ Feel free to [contact me](https://vikiru.vercel.app/contact) or check out my [Gi
 
 **Bachelor of Engineering - BEng., Software Engineering** - *Carleton University*  
 
-Sept 2018 - Apr 2023
-
 **IBM DevOps and Software Engineering Certificate** - [*Coursera*](https://coursera.org/share/ff5dc718cd4f17208f60c5004f079928) 
 
-Nov 2023 - Dec 2023
-
-**IBM Full Stack Software Developer** - [*Coursera*](https://coursera.org/share/2c288e462af814df334a75f4e59cbfe6)  
-
-Oct 2023 - Nov 2023
+**IBM Full Stack Software Developer Certificate** - [*Coursera*](https://coursera.org/share/2c288e462af814df334a75f4e59cbfe6)  
 
 ## 💡 Skills
 
-**Languages**: Java, Python, HTML, CSS, JavaScript
+🖥️ Programming Languages: `Java` • `Python` • `JavaScript` • `HTML` • `CSS` 
 
-**Frameworks/Libraries**: Express.js, React, React Router, TailwindCSS, DaisyUI, Mocha, Sinon, Chai, JUnit, Spring, NumPy, SciPy, SimPy, Pandas, Django, Flask
+🛠️ Frameworks & Libraries: 
+- `Express.js` | `React` | `React Router` | `TailwindCSS` | `DaisyUI` | `Mocha` | `Chai` | `Sinon`
+- `JUnit` | `Spring`
+- `NumPy` | `SciPy` | `SimPy` | `Pandas`
 
-**Tools**: Node.js, Maven, npm, pip, git, GitHub, GitHub Desktop, Postman
+🗄️ Databases: 
+- `MySQL` | `SQLite` | `MongoDB`
+- `Sequelize` | `Mongoose` 
 
-**Database**: MySQL, SQLite, MongoDB, Sequelize, Mongoose
+🔧 Development Tools: 
+- `Node.js` | `Maven` | `npm` | `pip` | `git`
+- `GitHub` | `GitHub Desktop` | `Postman`
 
-**DevOps**: CircleCI, GitHub Actions, Snyk
+☁️ DevOps & Hosting: 
+- `CircleCI` | `GitHub Actions` | `Snyk`
+- `GitHub Pages` | `Heroku` | `Render` | `Vercel` | `Firebase` | `Fl0` | `Surge.sh`
 
-**Editor/IDE**: VSCode, IntelliJ, Eclipse
+📝 IDEs & Editors: `VS Code` | `IntelliJ` | `Eclipse`
 
-**Hosting**: GitHub Pages, Heroku, Render, Vercel, Firebase, Fl0, Surge.sh
-
-**OS**: Windows, Ubuntu
+💻 Operating Systems: `Windows` | `Ubuntu`
 
 ## 📝 Additional Info
 
 <details>
-<summary>🚀 GitHub Projects</summary>
+<summary>🚀 Personal Projects</summary>
 
-- **Kelbrum | Anime Recommendation System**
-  - Technologies Used: `Node.js`, `React`, `React Router`, `TailwindCSS`, `DaisyUI`, `Tensorflow.js`
-  - [GitHub Repo](https://github.com/vikiru/kelbrum)
-  - [Project Showcase Page](https://vikiru.vercel.app/projects/Kelbrum)
- 
-- **Parseum | Markdown Editor and Parser**
-  - Technologies Used: `Node.js`, `Peggy.js`, `React`, `TailwindCSS`, `DaisyUI`
-  - [GitHub Repo](https://github.com/vikiru/parseum)
-  - [Project Showcase Page](https://vikiru.vercel.app/projects/Parseum)
-  
-- **RESTasaurus | Dinosaur REST API**
-  - Technologies Used: `Express.js`, `MongoDB`, `Mongoose`, `Sinon`, `Mocha`, `Chai`
-  - [GitHub Repo](https://github.com/vikiru/restasaurus)
-  - [Project Showcase Page](https://vikiru.vercel.app/projects/RESTasaurus)
-  
-- **Portfolio Website**
-  - Technologies Used: `React`, `React Router`, `TailwindCSS`
-  - [GitHub Repo](https://github.com/vikiru/vikiru.github.io)
-  - [Project Showcase Page](https://vikiru.vercel.app/projects/Portfolio)
+🔮 **Kelbrum** - Anime recommendation system based on similarity
+- [🔗 GitHub](https://github.com/vikiru/kelbrum) | [🌐 Showcase](https://vikiru.vercel.app/projects/Kelbrum)
+- `Node.js` `React` `React Router` `TailwindCSS` `DaisyUI` `Tensorflow.js`
 
-- **Urvo | Multi-purpose Discord Bot**
-  - Technologies Used: `Node.js`, `SQLite`, `Sequelize`, `Mocha`, `Chai`
-  - [GitHub Repo](https://github.com/vikiru/Urvo)
-  - [Project Showcase Page](https://vikiru.vercel.app/projects/Urvo)
+📝 **Parseum** - Markdown to HTML Parser and Editor
+- [🔗 GitHub](https://github.com/vikiru/parseum) | [🌐 Showcase](https://vikiru.vercel.app/projects/Parseum)
+- `Node.js` `Peggy.js` `React` `TailwindCSS` `DaisyUI`
 
-- **CodeSmell | Static Analysis Tool**
-  - Technologies Used: `Java`, `Maven`, `JUnit`, `Python`, `JavaFX WebView`, `HTML`, `CSS`, `JavaScript`
-  - [GitHub Repo](https://github.com/vikiru/CodeSmell)
-  - [Project Showcase Page](https://vikiru.vercel.app/projects/CodeSmell)
+🦖 **RESTasaurus** - Dinosaur REST API 
+- [🔗 GitHub](https://github.com/vikiru/restasaurus) | [🌐 Showcase](https://vikiru.vercel.app/projects/RESTasaurus)
+- `Express.js` `MongoDB` `Mongoose` `Sinon` `Mocha` `Chai`
 
-- **discrete-sim | Manufacturing Facility Simulation**
-  - Technologies Used: `Python`, `NumPy`, `SciPy`, `SimPy`
-  - [GitHub Repo](https://github.com/vikiru/discrete-sim)
-  - [Project Showcase Page](https://vikiru.vercel.app/projects/discrete-sim)
+🌐 **Portfolio Website**
+- [🔗 GitHub](https://github.com/vikiru/vikiru.github.io) | [🌐 Showcase](https://vikiru.vercel.app/projects/Portfolio)
+- `React` `React Router` `TailwindCSS`
 
-- **Mini-SurveyMonkey | Spring Boot CRUD Web App**
-  - Technologies Used: `Java`, `Maven`, `Spring Boot`, `Thymeleaf`, `JUnit`, `HTML`, `CSS`
-  - [GitHub Repo](https://github.com/vikiru/Mini-SurveyMonkey)
-  - [Project Showcase Page](https://vikiru.vercel.app/projects/Mini-SurveyMonkey)
+🤖 **Urvo** - Multi-purpose Discord Bot 
+- [🔗 GitHub](https://github.com/vikiru/Urvo) | [🌐 Showcase](https://vikiru.vercel.app/projects/Urvo)
+- `Node.js` `SQLite` `Sequelize` `Mocha` `Chai`
 
-- **Elevator Simulator | Threads and UDP**
-  - Technologies Used: `Java`, `Maven`, `JUnit`
-  - GitHub Repo: `private`
-  - [Project Showcase Page](https://vikiru.vercel.app/projects/Elevator-Simulator)
+🔍 **CodeSmell** - Static Analysis Tool for detecting and visualizing code smells in Java
+- [🔗 GitHub](https://github.com/vikiru/CodeSmell) | [🌐 Showcase](https://vikiru.vercel.app/projects/CodeSmell)
+- `Java` `Maven` `JUnit` `Python` `JavaFX WebView` `HTML` `CSS` `JavaScript`
 
-- **digitalRisk | MVC Swing Game**
-  - Technologies Used: `Java`, `Maven`, `JUnit`, `Swing`
-  - [GitHub Repo](https://github.com/flavji/digitalRisk)
-  - [Project Showcase Page](https://vikiru.vercel.app/projects/digitalRisk)
+🏭 **discrete-sim** - Manufacturing Facility Simulation 
+- [🔗 GitHub](https://github.com/vikiru/discrete-sim) | [🌐 Showcase](https://vikiru.vercel.app/projects/discrete-sim)
+- `Python` `NumPy` `SciPy` `SimPy`
+
+📊 **Mini-SurveyMonkey** - SurveyMonkey clone built as a Spring Boot CRUD Web App, for educational purposes
+- [🔗 GitHub](https://github.com/vikiru/Mini-SurveyMonkey) | [🌐 Showcase](https://vikiru.vercel.app/projects/Mini-SurveyMonkey)
+- `Java` `Maven` `Spring Boot` `Thymeleaf` `JUnit` `HTML` `CSS`
+
+🧵 **Elevator Simulator** - Simulation of an elevator using threads and UDP
+- [🌐 Showcase](https://vikiru.vercel.app/projects/Elevator-Simulator)
+- `Java` `Maven` `JUnit`
+
+🎮 **digitalRisk** - Recreation of Risk: Global Domination using Swing and MVC, for educational purposes
+- [🔗 GitHub](https://github.com/flavji/digitalRisk) | [🌐 Showcase](https://vikiru.vercel.app/projects/digitalRisk)
+- `Java` `Maven` `JUnit` `Swing`
 
 </details>
 
@@ -117,11 +108,16 @@ Oct 2023 - Nov 2023
 
 <details>
   <summary>📈 GitHub Stats</summary>
+  
+  <p align="center">
+        <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://streak-stats.demolab.com?user=vikiru&theme=monokai-metallian&hide_border=true&card_width=500&dates=61DBFA&currStreakNum=61DBFA&ring=61DBFA&currStreakLabel=61DBFA&sideNums=61DBFA&sideLabels=61DBFA&fire=61DBFA" alt="Visakan Kirubakaran's Programming Streak"/></a>
+  </p>
+  
   <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/?username=vikiru&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E" width="400px" alt="Visakan Kirubakaran's Github Stats" /></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikiru&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E" height="167px"  alt="Visakan Kirubakaran's Most Used Languages"/></a>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://streak-stats.demolab.com?user=vikiru&theme=monokai-metallian&hide_border=true&card_width=500&dates=61DBFA&currStreakNum=61DBFA&ring=61DBFA&currStreakLabel=61DBFA&sideNums=61DBFA&sideLabels=61DBFA&fire=61DBFA" alt="Visakan Kirubakaran's Programming Streak"/></a>
-  </p>
+</p>
+
 </details>
 
 <br/>
