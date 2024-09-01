@@ -57,7 +57,8 @@ Feel free to [contact me](https://vikiru.vercel.app/contact) or check out my [Gi
 📝 IDEs & Editors: 
 - `VS Code` | `IntelliJ` | `Eclipse`
 
-💻 Operating Systems: `Windows` | `Ubuntu`
+💻 Operating Systems: 
+- `Windows` | `Ubuntu`
 
 ## 📝 Additional Info
 
