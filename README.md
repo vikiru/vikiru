@@ -130,16 +130,17 @@ Feel free to [contact me](https://vikiru.vercel.app/contact) or check out my [Gi
 <!--START_SECTION:waka-->
 
 ```python
-From: 28 August 2024 - To: 04 September 2024
+From: 29 August 2024 - To: 05 September 2024
 
-Total Time: 11 hrs 51 mins
+Total Time: 7 hrs 40 mins
 
-TypeScript    6 hrs 35 mins   ██████████████░░░░░░░░░░░   55.56 %
-JavaScript    1 hr 43 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.50 %
-JSON          1 hr 37 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.76 %
-TSConfig      34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
-Markdown      28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
-Other         19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+TypeScript   5 hrs 3 mins    ████████████████▓░░░░░░░░   66.02 %
+JSON         1 hr            ███▒░░░░░░░░░░░░░░░░░░░░░   13.07 %
+JavaScript   43 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 %
+TSConfig     24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
+Bash         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
+Prisma       9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+Other        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
 ```
 
 <!--END_SECTION:waka-->
