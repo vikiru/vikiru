@@ -130,14 +130,14 @@ Feel free to [contact me](https://vikiru.vercel.app/contact) or check out my [Gi
 <!--START_SECTION:waka-->
 
 ```python
-From: 08 November 2024 - To: 15 November 2024
+From: 09 November 2024 - To: 16 November 2024
 
-Total Time: 2 hrs 24 mins
+Total Time: 2 hrs 16 mins
 
-TypeScript   1 hr 19 mins    █████████████▓░░░░░░░░░░░   54.84 %
-Bash         29 mins         █████░░░░░░░░░░░░░░░░░░░░   20.35 %
-Markdown     26 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.48 %
-Other        7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
+TypeScript   1 hr 19 mins    ██████████████▓░░░░░░░░░░   58.17 %
+Bash         29 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.59 %
+Markdown     18 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.52 %
+Other        7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 %
 ```
 
 <!--END_SECTION:waka-->
