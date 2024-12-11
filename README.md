@@ -130,12 +130,11 @@ Feel free to [contact me](https://vikiru.vercel.app/contact) or check out my [Gi
 <!--START_SECTION:waka-->
 
 ```python
-From: 02 December 2024 - To: 09 December 2024
+From: 03 December 2024 - To: 10 December 2024
 
-Total Time: 3 mins
+Total Time: 0 secs
 
-Markdown     3 mins          █████████████████████░░░░   84.33 %
-TypeScript   0 secs          ████░░░░░░░░░░░░░░░░░░░░░   15.67 %
+Markdown   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
