@@ -130,11 +130,11 @@ Feel free to [contact me](https://vikiru.vercel.app/contact) or check out my [Gi
 <!--START_SECTION:waka-->
 
 ```python
-From: 29 January 2025 - To: 05 February 2025
+From: 30 January 2025 - To: 06 February 2025
 
-Total Time: 55 mins
+Total Time: 57 mins
 
-Other        25 mins         ███████████▓░░░░░░░░░░░░░   46.62 %
+Other        25 mins         ███████████▒░░░░░░░░░░░░░   45.45 %
 ```
 
 <!--END_SECTION:waka-->
