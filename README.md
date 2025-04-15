@@ -130,15 +130,14 @@ Feel free to [contact me](https://vikiru.vercel.app/contact) or check out my [Gi
 <!--START_SECTION:waka-->
 
 ```python
-From: 05 April 2025 - To: 12 April 2025
+From: 06 April 2025 - To: 13 April 2025
 
-Total Time: 26 hrs 22 mins
+Total Time: 23 hrs 18 mins
 
-TypeScript   19 hrs 19 mins  ██████████████████▒░░░░░░   73.27 %
-JSON         3 hrs 21 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.75 %
-CSS          1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
-JavaScript   1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
-Other        36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+TypeScript   18 hrs 55 mins  ████████████████████▒░░░░   81.18 %
+JSON         2 hrs 35 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 %
+CSS          1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
+Other        17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
 ```
 
 <!--END_SECTION:waka-->
