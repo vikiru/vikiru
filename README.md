@@ -47,11 +47,12 @@ Feel free to [contact me](https://vikiru.vercel.app/contact) or check out my [Gi
 <!--START_SECTION:waka-->
 
 ```python
-From: 19 April 2025 - To: 26 April 2025
+From: 21 April 2025 - To: 28 April 2025
 
-Total Time: 2 mins
+Total Time: 3 hrs 45 mins
 
-TypeScript   2 mins          █████████████████████████   100.00 %
+TypeScript   3 hrs 42 mins   ████████████████████████▓   98.42 %
+JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
 ```
 
 <!--END_SECTION:waka-->
