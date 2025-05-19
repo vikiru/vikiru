@@ -47,16 +47,18 @@ Feel free to [contact me](https://vikiru.vercel.app/contact) or check out my [Gi
 <!--START_SECTION:waka-->
 
 ```python
-From: 09 May 2025 - To: 16 May 2025
+From: 10 May 2025 - To: 17 May 2025
 
-Total Time: 16 hrs 10 mins
+Total Time: 11 hrs 19 mins
 
-Lua             13 hrs 14 mins  ████████████████████▒░░░░   81.90 %
-TypeScript      52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
-INI             23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
-Bash            22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
-JSON            18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
-Other           14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+Lua             7 hrs 2 mins    ███████████████▓░░░░░░░░░   62.25 %
+TypeScript      1 hr 8 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.16 %
+Prisma          33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
+Bash            32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
+JSON            27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
+INI             23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
+TSConfig        15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+Other           14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
 ```
 
 <!--END_SECTION:waka-->
