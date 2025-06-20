@@ -54,7 +54,7 @@ Feel free to [contact me](https://vikiru.vercel.app/contact) or check out my [Gi
 <!--START_SECTION:waka-->
 
 ```python
-From: 10 June 2025 - To: 17 June 2025
+From: 11 June 2025 - To: 18 June 2025
 
 Total Time: 26 mins
 
