@@ -54,16 +54,13 @@ Feel free to [contact me](https://vikiru.vercel.app/contact) or check out my [Gi
 <!--START_SECTION:waka-->
 
 ```python
-From: 05 August 2025 - To: 12 August 2025
+From: 06 August 2025 - To: 13 August 2025
 
-Total Time: 52 mins
+Total Time: 29 mins
 
-TypeScript   21 mins         ██████████▒░░░░░░░░░░░░░░   40.89 %
-Python       10 mins         █████░░░░░░░░░░░░░░░░░░░░   20.22 %
-Lua          10 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.15 %
-Markdown     10 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.07 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-TOML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+TypeScript   19 mins         ████████████████░░░░░░░░░   63.92 %
+Python       10 mins         █████████░░░░░░░░░░░░░░░░   35.78 %
+TOML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 ```
 
 <!--END_SECTION:waka-->
