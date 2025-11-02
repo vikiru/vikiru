@@ -31,12 +31,12 @@ Feel free to [contact me](https://vikiru.vercel.app/contact) or check out my [Gi
 <!--START_SECTION:waka-->
 
 ```python
-From: 23 October 2025 - To: 30 October 2025
+From: 25 October 2025 - To: 01 November 2025
 
-Total Time: 21 mins
+Total Time: 22 mins
 
-Lua    20 mins         ████████████████████████▒   96.82 %
-TOML   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+Lua    21 mins         ████████████████████████▒   96.95 %
+TOML   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
 ```
 
 <!--END_SECTION:waka-->
