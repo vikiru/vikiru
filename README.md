@@ -31,11 +31,16 @@ Feel free to [contact me](https://vikiru.vercel.app/contact) or check out my [Gi
 <!--START_SECTION:waka-->
 
 ```python
-From: 03 November 2025 - To: 10 November 2025
+From: 04 November 2025 - To: 11 November 2025
 
-Total Time: 0 secs
+Total Time: 4 hrs 26 mins
 
-No activity tracked
+TypeScript   3 hrs 50 mins   █████████████████████▓░░░   86.23 %
+SQL          20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
+Markdown     6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+JSON         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
+JavaScript   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
