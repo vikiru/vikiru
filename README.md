@@ -31,17 +31,17 @@ Feel free to [contact me](https://vikiru.vercel.app/contact) or check out my [Gi
 <!--START_SECTION:waka-->
 
 ```python
-From: 14 November 2025 - To: 21 November 2025
+From: 15 November 2025 - To: 22 November 2025
 
-Total Time: 10 hrs 44 mins
+Total Time: 16 hrs 44 mins
 
-TypeScript   8 hrs 25 mins   ███████████████████▓░░░░░   78.46 %
-CSS          1 hr 44 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.15 %
-TSConfig     13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
-JSON         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
-Markdown     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
-YAML         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+TypeScript   13 hrs 53 mins  ████████████████████▓░░░░   82.99 %
+CSS          2 hrs 3 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.34 %
+TSConfig     22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+JSON         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+Markdown     6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+YAML         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
