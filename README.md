@@ -31,17 +31,18 @@ Feel free to [contact me](https://vikiru.vercel.app/contact) or check out my [Gi
 <!--START_SECTION:waka-->
 
 ```python
-From: 04 December 2025 - To: 11 December 2025
+From: 05 December 2025 - To: 12 December 2025
 
-Total Time: 22 hrs 30 mins
+Total Time: 24 hrs 50 mins
 
-TypeScript   8 hrs 39 mins   █████████▓░░░░░░░░░░░░░░░   38.48 %
-JSON         4 hrs 1 min     ████▒░░░░░░░░░░░░░░░░░░░░   17.86 %
-JavaScript   3 hrs 22 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.01 %
-Python       2 hrs 20 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 %
-Text         1 hr 7 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
-Markdown     42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
-Other        26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+TypeScript   8 hrs 18 mins   ████████▒░░░░░░░░░░░░░░░░   33.44 %
+Python       4 hrs 33 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.33 %
+JSON         4 hrs 2 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.26 %
+JavaScript   3 hrs 16 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.16 %
+Text         1 hr 9 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
+Markdown     42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+Bash         27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+Other        26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
 ```
 
 <!--END_SECTION:waka-->
