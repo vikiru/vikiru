@@ -31,13 +31,12 @@ Feel free to [contact me](https://vikiru.vercel.app/contact) or check out my [Gi
 <!--START_SECTION:waka-->
 
 ```python
-From: 13 December 2025 - To: 20 December 2025
+From: 14 December 2025 - To: 21 December 2025
 
-Total Time: 8 hrs 11 mins
+Total Time: 5 hrs 7 mins
 
-Python            2 hrs 31 mins   ███████▓░░░░░░░░░░░░░░░░░   30.76 %
-TOML              2 hrs 6 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.81 %
-Other             1 hr 34 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.27 %
+Python            1 hr 38 mins    ████████░░░░░░░░░░░░░░░░░   32.11 %
+Other             1 hr 6 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.58 %
 ```
 
 <!--END_SECTION:waka-->
