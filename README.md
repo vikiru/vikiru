@@ -31,12 +31,20 @@ Feel free to [contact me](https://vikiru.vercel.app/contact) or check out my [Gi
 <!--START_SECTION:waka-->
 
 ```python
-From: 14 December 2025 - To: 21 December 2025
+From: 15 December 2025 - To: 22 December 2025
 
-Total Time: 5 hrs 7 mins
+Total Time: 1 hr 44 mins
 
-Python            1 hr 38 mins    ████████░░░░░░░░░░░░░░░░░   32.11 %
-Other             1 hr 6 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.58 %
+Java              39 mins         █████████▓░░░░░░░░░░░░░░░   38.08 %
+Lua               10 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.00 %
+Java Properties   9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 %
+TSConfig          8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 %
+Python            8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
+Markdown          7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
+YAML              6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
+XML               5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
+Git Config        4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
+Other             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
 ```
 
 <!--END_SECTION:waka-->
