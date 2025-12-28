@@ -31,14 +31,14 @@ Feel free to [contact me](https://vikiru.vercel.app/contact) or check out my [Gi
 <!--START_SECTION:waka-->
 
 ```python
-From: 18 December 2025 - To: 25 December 2025
+From: 19 December 2025 - To: 26 December 2025
 
-Total Time: 5 hrs 39 mins
+Total Time: 5 hrs 34 mins
 
-TypeScript        1 hr 39 mins    ███████▒░░░░░░░░░░░░░░░░░   29.22 %
-Markdown          1 hr 8 mins     █████░░░░░░░░░░░░░░░░░░░░   20.13 %
-Java              45 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.33 %
-Other             35 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.35 %
+TypeScript        1 hr 39 mins    ███████▒░░░░░░░░░░░░░░░░░   29.72 %
+Markdown          1 hr 8 mins     █████░░░░░░░░░░░░░░░░░░░░   20.47 %
+Java              44 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.42 %
+Other             35 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.53 %
 ```
 
 <!--END_SECTION:waka-->
