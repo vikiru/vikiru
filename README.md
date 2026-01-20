@@ -31,20 +31,20 @@ Feel free to [contact me](https://vikiru.vercel.app/contact) or check out my [Gi
 <!--START_SECTION:waka-->
 
 ```python
-From: 10 January 2026 - To: 17 January 2026
+From: 11 January 2026 - To: 18 January 2026
 
-Total Time: 24 hrs 23 mins
+Total Time: 19 hrs 52 mins
 
-TypeScript   4 hrs 45 mins   █████░░░░░░░░░░░░░░░░░░░░   19.52 %
-Astro        4 hrs 7 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.94 %
-Markdown     4 hrs 6 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.83 %
-JavaScript   2 hrs 47 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.43 %
-JSON         2 hrs 30 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.26 %
-YAML         2 hrs 9 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 %
-MDX          1 hr 46 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
-Git Config   40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
-TSConfig     40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
-TOML         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+Markdown     3 hrs 49 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.24 %
+TypeScript   3 hrs 16 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.45 %
+Astro        2 hrs 34 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.93 %
+JSON         2 hrs 16 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.42 %
+JavaScript   2 hrs 9 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.85 %
+YAML         2 hrs 9 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.85 %
+MDX          1 hr 46 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.93 %
+TSConfig     34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
+Git Config   31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
+TOML         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
 ```
 
 <!--END_SECTION:waka-->
