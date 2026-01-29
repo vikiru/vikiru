@@ -31,13 +31,12 @@ Feel free to [contact me](https://vikiru.vercel.app/contact) or check out my [Gi
 <!--START_SECTION:waka-->
 
 ```python
-From: 19 January 2026 - To: 26 January 2026
+From: 20 January 2026 - To: 27 January 2026
 
-Total Time: 3 mins
+Total Time: 9 mins
 
-Astro   2 mins          ███████████████▓░░░░░░░░░   62.51 %
-CSS     0 secs          ████▓░░░░░░░░░░░░░░░░░░░░   18.79 %
-YAML    0 secs          ████▓░░░░░░░░░░░░░░░░░░░░   18.70 %
+JSON    5 mins          ██████████████░░░░░░░░░░░   56.37 %
+jsonc   4 mins          ███████████░░░░░░░░░░░░░░   43.63 %
 ```
 
 <!--END_SECTION:waka-->
