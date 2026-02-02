@@ -31,15 +31,16 @@ Feel free to [contact me](https://vikiru.vercel.app/contact) or check out my [Gi
 <!--START_SECTION:waka-->
 
 ```python
-From: 23 January 2026 - To: 30 January 2026
+From: 25 January 2026 - To: 01 February 2026
 
-Total Time: 46 mins
+Total Time: 1 hr 41 mins
 
-CSS            20 mins         ███████████░░░░░░░░░░░░░░   43.66 %
-TypeScript     8 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.13 %
-shell script   8 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.38 %
-JSON           5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.85 %
-jsonc          4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 %
+JSON           46 mins         ███████████▒░░░░░░░░░░░░░   45.76 %
+CSS            25 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.23 %
+YAML           8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.75 %
+TypeScript     8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 %
+shell script   8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 %
+jsonc          4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
 ```
 
 <!--END_SECTION:waka-->
