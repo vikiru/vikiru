@@ -31,18 +31,20 @@ Feel free to [contact me](https://vikiru.vercel.app/contact) or check out my [Gi
 <!--START_SECTION:waka-->
 
 ```python
-From: 29 January 2026 - To: 05 February 2026
+From: 30 January 2026 - To: 06 February 2026
 
-Total Time: 6 hrs 27 mins
+Total Time: 6 hrs 36 mins
 
-JSON         4 hrs 23 mins   █████████████████░░░░░░░░   68.06 %
-jsonc        1 hr 13 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.05 %
-Lua          11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
-TypeScript   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
-YAML         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
-TOML         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
-CSS          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
-Markdown     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+JSON         4 hrs 24 mins   ████████████████▓░░░░░░░░   66.62 %
+jsonc        1 hr 20 mins    █████░░░░░░░░░░░░░░░░░░░░   20.19 %
+Lua          11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+TypeScript   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
+TOML         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+YAML         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
+CSS          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+Markdown     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
