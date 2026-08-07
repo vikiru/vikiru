@@ -6,43 +6,4 @@ I am committed to leveraging my skills and education to contribute to meaningful
 
 [![Skills](https://skillicons.dev/icons?i=java,python,js,ts,html,css,tailwind,react,express,mysql,sqlite,postgresql,mongodb,prisma,sequelize,postman,git,githubactions,vscode,eclipse,neovim)](https://skillicons.dev)
 
-Feel free to [contact me](https://vikiru.vercel.app/contact) or check out my [GitHub repositories](https://github.com/vikiru?tab=repositories&q=&type=&language=&sort=stargazers)!
-
-<details>
-  <summary>📈 GitHub Stats</summary>
-  
-  <p align="center">
-
-  </p>
-  
-  <p>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://streak-stats.demolab.com?user=vikiru&theme=monokai-metallian&hide_border=true&card_width=500&dates=61DBFA&currStreakNum=61DBFA&ring=61DBFA&currStreakLabel=61DBFA&sideNums=61DBFA&sideLabels=61DBFA&fire=61DBFA" alt="Visakan Kirubakaran's Programming Streak"/>
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/?username=vikiru&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E" alt="Visakan Kirubakaran's Github Stats" />
-    </a>
-  </p>
-
-</details>
-
-<br/>
-
-<details>
-  <summary>⌨️ Dev Breakdown</summary>
-<!--START_SECTION:waka-->
-
-```python
-From: 30 July 2026 - To: 06 August 2026
-
-Total Time: 29 hrs 40 mins
-
-Python       19 hrs 21 mins        ████████████████▒░░░░░░░░   65.24 %
-Markdown     4 hrs 4 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.73 %
-Text         2 hrs 53 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.77 %
-TOML         1 hr 27 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
-Git Config   46 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
-JSON         22 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
-Other        21 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
-```
-
-<!--END_SECTION:waka-->
-</details>
+Feel free to [contact me](https://vikiru.vercel.app/#contact) or check out my [GitHub repositories](https://github.com/vikiru?tab=repositories&q=&type=&language=&sort=stargazers)!
